@@ -1,0 +1,12 @@
+{
+  "raw_shape": [10000, 29],
+  "raw_default_rate_pct": 16.83,
+  "development_sample_rows": 8000,
+  "processed_shape": [8000, 51],
+  "high_correlation_pairs": [
+    {"variables": ["total_loan", "monthly_payment"], "r": 0.925},
+    {"variables": ["scoring_low", "scoring_high"], "r": 0.889}
+  ],
+  "dropped_collinear": ["monthly_payment", "scoring_high"]
+}
+

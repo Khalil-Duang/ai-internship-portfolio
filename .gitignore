@@ -1,0 +1,22 @@
+# datasets and generated outputs
+data/
+*.csv
+*.xls
+*.xlsx
+*.mdf
+*.ldf
+results/
+outputs/
+
+# local environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
