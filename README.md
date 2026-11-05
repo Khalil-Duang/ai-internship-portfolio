@@ -29,5 +29,5 @@ Python · Pandas · NumPy · scikit-learn · SQL · R · SQL Server · SSIS · G
 ## 联系方式
 
 - GitHub: [Khalil-Duang](https://github.com/Khalil-Duang)
-- Email: 18810085776@163.com
+- 通过 GitHub 主页联系
 

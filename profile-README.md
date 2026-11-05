@@ -14,6 +14,6 @@ Python · SQL · Pandas · scikit-learn · R · SQL Server · SSIS · Git · Lin
 
 ## 联系
 
-- Email: 18810085776@163.com
+- GitHub: https://github.com/Khalil-Duang
 - Portfolio repository: https://github.com/Khalil-Duang/ai-internship-portfolio
 
